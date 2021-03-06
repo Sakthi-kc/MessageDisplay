@@ -1,0 +1,11 @@
+C:\Users\gokul\source\repos\MyProfile\MyProfile\bin\Debug\MyProfile.exe.config
+C:\Users\gokul\source\repos\MyProfile\MyProfile\bin\Debug\MyProfile.exe
+C:\Users\gokul\source\repos\MyProfile\MyProfile\bin\Debug\MyProfile.pdb
+C:\Users\gokul\source\repos\MyProfile\MyProfile\obj\Debug\MyProfile.csprojAssemblyReference.cache
+C:\Users\gokul\source\repos\MyProfile\MyProfile\obj\Debug\MyProfile.Form1.resources
+C:\Users\gokul\source\repos\MyProfile\MyProfile\obj\Debug\MyProfile.Form2.resources
+C:\Users\gokul\source\repos\MyProfile\MyProfile\obj\Debug\MyProfile.Properties.Resources.resources
+C:\Users\gokul\source\repos\MyProfile\MyProfile\obj\Debug\MyProfile.csproj.GenerateResource.cache
+C:\Users\gokul\source\repos\MyProfile\MyProfile\obj\Debug\MyProfile.csproj.CoreCompileInputs.cache
+C:\Users\gokul\source\repos\MyProfile\MyProfile\obj\Debug\MyProfile.exe
+C:\Users\gokul\source\repos\MyProfile\MyProfile\obj\Debug\MyProfile.pdb
